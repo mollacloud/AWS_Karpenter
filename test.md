@@ -1,5 +1,1 @@
-test
-
-![스크린샷 2025-12-24 오후 1.51.22](/Users/happy/Documents/github/AWS_Karpenter/images/test/스크린샷 2025-12-24 오후 1.51.22.png)
-
-![스크린샷 2025-12-24 오후 1.52.27](/Users/happy/Documents/github/AWS_Karpenter/images/test/스크린샷 2025-12-24 오후 1.52.27.png)
+![스크린샷 2025-12-24 오후 1.55.40](../images/test/스크린샷 2025-12-24 오후 1.55.40.png)
